@@ -14,9 +14,9 @@
 * 迭代法參考自: (https://github.com/ccc112a/py2cs/tree/master/02-%E6%BC%94%E7%AE%97%E6%B3%95/02-%E6%96%B9%E6%B3%95/03-%E8%BF%AD%E4%BB%A3%E6%B3%95/equation)
 * hw4 皆有依靠ChatGPT 修改
 
-
-
 ## hw5
+* 修改自: (https://github.com/ccc112a/py2cs/tree/master/02-%E6%BC%94%E7%AE%97%E6%B3%95/02-%E6%96%B9%E6%B3%95/05c-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95)
+* ChatGPT 修改neighbor function
 
 ## hw6
 
