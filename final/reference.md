@@ -19,6 +19,8 @@
 * ChatGPT 修改neighbor function
 
 ## hw6
+* 參考自: (https://github.com/ccc112a/py2cs/tree/master/02-%E6%BC%94%E7%AE%97%E6%B3%95/02-%E6%96%B9%E6%B3%95/05e-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
+* 由 ChatGPT 完成, 且理解
 
 ## hw7
 
