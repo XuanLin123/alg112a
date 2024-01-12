@@ -26,9 +26,13 @@
 * 由 ChatGPT 完成, 且理解
 
 ## hw8
+* 已放在hw8.md的最後
 
 ## hw9
+* 使用ChatGPT 完成，且理解
 
 ## hw10
+* 使用ChatGPT 完成，且理解
 
 ## hw11
+* 使用ChatGPT
